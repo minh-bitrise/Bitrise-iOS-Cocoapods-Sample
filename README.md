@@ -1,4 +1,4 @@
-Hello
+hello bitrise
 
 # Bitrise-iOS-Cocoapods-Sample
 
